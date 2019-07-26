@@ -1,30 +1,38 @@
-# This is a large heading
+# Aditya Babel
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of **Singapore**!
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my *favorite* books are:
 
-Here is `some code` in the middle of a sentence.
+- *absd* by John
+- *cdfe* by James
+- *asdd* by Jim
+
+### Food
+
+The following restaurants are **great**:
+
+1. Harrys in VivoCity
+2. Prive by the sea
+3. absdasd
+
+### Contact
+
+The best way to get in touch with me is [on twitter](https://twitter.com/realdonaldtrump
+
+
+### Coding
+
+I dont know how to code but I do know that `print ('hello world')` is a common bit of code that everyone writes.
+
+I also like the following:
 
 ```
-This is
-a block
-of code
+def finite_or_not():
+	while 1:
+		print('test')
 ```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
