@@ -22,7 +22,7 @@ The following restaurants are **great**:
 
 ### Contact
 
-The best way to get in touch with me is [on twitter](https://twitter.com/realdonaldtrump
+The best way to get in touch with me is [on twitter](https://twitter.com/realdonaldtrump)
 
 
 ### Coding
