@@ -32,7 +32,7 @@ I dont know how to code but I do know that `print ('hello world')` is a common b
 I also like the following:
 
 ```
-def finite_or_not():
+def finite_loop():
 	while 1:
-		print('test')
+		print('wait .. I am stopping now')
 ```
